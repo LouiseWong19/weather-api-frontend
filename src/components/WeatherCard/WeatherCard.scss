@@ -1,2 +1,9 @@
 @use "../../assets/styles/variables" as *;
 @use "../../assets/styles/typography" as *;
+
+.weather-card {
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

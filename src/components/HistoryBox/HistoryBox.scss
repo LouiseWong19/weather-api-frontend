@@ -1,12 +1,12 @@
 @use "../../assets/styles/variables" as *;
 @use "../../assets/styles/typography" as *;
 
-.history-box{
+.history-box {
   border: 1px solid black;
   border-radius: 1rem 1rem 0 0;
   padding: 1rem;
   background-color: $font-color;
   display: flex;
   flex-direction: column;
-    align-items: center;
+  align-items: center;
 }
